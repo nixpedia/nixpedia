@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @nixpedia.
+- 👀 I’m interested in Linux.
+- 🌱 I’m currently learning to program.
+- 📫 How to reach me ...
